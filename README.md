@@ -1,94 +1,174 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:8B5CF6,100:3B82F6&text=Safal%20Siyad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F0C,50:10B981,100:34D399&text=SAFAL%20SIYAD&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=AI+Developer;Machine+Learning+Engineer;LLM+Agent+Systems+Builder;Full+Stack+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=34D399&center=true&vCenter=true&width=1200&lines=AI+Systems+Engineer;Creator+of+Trinity+AI+OS;Autonomous+Agent+Architect;Machine+Learning+Engineer;Full+Stack+AI+Product+Builder;Building+Next+Generation+Intelligent+Systems"/>
 
 <br>
 
-![](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20Developer-Professional-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Kerala%2C%20India-3B82F6?style=for-the-badge)
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Kerala,%20India-34D399?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-AI%20Engineering-10B981?style=for-the-badge"/>
 
 <br><br>
 
 <a href="mailto:safalsiyad2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/BlueRogue22">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/GitHub-BlueRogue22-111827?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-TrinityAgent.space-34D399?style=for-the-badge"/>
 </a>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=BlueRogue22&style=for-the-badge&color=8B5CF6)
+![](https://komarev.com/ghpvc/?username=BlueRogue22&style=for-the-badge&color=10B981)
 
-![](https://img.shields.io/github/followers/BlueRogue22?style=for-the-badge&color=6C63FF)
+![](https://img.shields.io/github/followers/BlueRogue22?style=for-the-badge&color=34D399)
 
-![](https://img.shields.io/github/stars/BlueRogue22?style=for-the-badge&color=3B82F6)
+![](https://img.shields.io/github/stars/BlueRogue22?style=for-the-badge&color=10B981)
 
 </div>
 
 ---
 
+# > SYSTEM STATUS
+
+```bash
+SYSTEM_NAME    : Trinity AI OS
+STATUS         : ONLINE
+MEMORY         : ACTIVE
+AGENTS         : READY
+MISSIONS       : RUNNING
+OWNER          : Safal Siyad
+LOCATION       : Kerala, India
+```
+
+---
+
+# Trinity AI OS
+
+<table>
+<tr>
+<td width="50%">
+
+## Core Systems
+
+- Intelligent Model Routing
+- Multi-Agent Runtime
+- Long-Term Memory
+- Vector Memory
+- Mission Execution
+- Tool Orchestration
+- Autonomous Workflows
+- Self Verification
+- Persistent State Engine
+- Background Workers
+
+</td>
+
+<td width="50%">
+
+## Architecture
+
+```text
+User Request
+      │
+      ▼
+ ┌───────────┐
+ │ AI Router │
+ └─────┬─────┘
+       │
+ ┌─────┼─────┐
+ ▼     ▼     ▼
+
+FAST REASON CODER
+LANE LANE  LANE
+
+       │
+       ▼
+
+ Tool Layer
+
+       │
+       ▼
+
+Memory Engine
+
+       │
+       ▼
+
+Mission Runtime
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 # About Me
 
-AI Developer specializing in Machine Learning, Deep Learning, LLM Systems, Autonomous AI Agents, and Full Stack Product Development.
+AI Systems Engineer specializing in autonomous agents, machine learning, deep learning, LLM infrastructure, and full-stack product engineering.
 
-I enjoy building intelligent software that bridges cutting-edge AI research with real-world products. My work spans autonomous AI systems, machine learning pipelines, agent orchestration, model routing, vector memory architectures, and full-stack engineering.
+My focus is building intelligent systems capable of reasoning, tool usage, memory management, workflow automation, and autonomous decision making.
 
-### Open To
+I enjoy turning cutting-edge AI research into deployable products that solve real-world problems.
 
-- AI Engineer Roles
-- Machine Learning Engineer Roles
-- Software Engineer Roles
-- Full Stack Developer Roles
-- AI Agent Development
-- Open Source Collaboration
-- Research & Product Engineering Opportunities
+---
+
+# Engineering Snapshot
+
+| Category | Details |
+|-----------|-----------|
+| Name | Safal Siyad |
+| Degree | B.Tech Artificial Intelligence & Data Science |
+| Focus | AI Systems Engineering |
+| Specialization | Autonomous Agents |
+| Core Language | Python |
+| Backend | FastAPI, Flask, Node.js |
+| Frontend | React |
+| Current Build | Trinity AI OS |
+| Open To | AI Engineer / ML Engineer |
+| Interests | Agents, LLMs, ML Systems |
 
 ---
 
 # Tech Stack
 
-## Languages
+## Artificial Intelligence
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,sql"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 
 </p>
 
-## Frontend
+<div align="center">
+
+![](https://img.shields.io/badge/AI%20Agents-Advanced-10B981?style=for-the-badge)
+
+![](https://img.shields.io/badge/LLM%20Systems-Advanced-10B981?style=for-the-badge)
+
+![](https://img.shields.io/badge/XGBoost-Advanced-10B981?style=for-the-badge)
+
+![](https://img.shields.io/badge/Transformers-Advanced-10B981?style=for-the-badge)
+
+![](https://img.shields.io/badge/LSTM-Advanced-10B981?style=for-the-badge)
+
+</div>
+
+---
+
+## Full Stack Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-
-</p>
-
-## Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mysql,sqlite"/>
-
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,sqlite,mysql,git,github"/>
 
 </p>
 
@@ -96,133 +176,138 @@ I enjoy building intelligent software that bridges cutting-edge AI research with
 
 # AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |----------|----------|----------|
-| Machine Learning | Advanced | Model development, optimization, deployment |
-| Deep Learning | Advanced | Neural networks, LSTM, RNN, Transformer |
-| AI Agents | Advanced | Autonomous tool use, routing, memory systems |
-| LLM Systems | Advanced | LiteLLM, model routing, fallback systems |
-| NLP | Intermediate | Text understanding, embeddings, vector memory |
-| XGBoost | Advanced | Classification and prediction systems |
-| Feature Engineering | Advanced | Data preprocessing and optimization |
-| MLOps | Intermediate | Deployment and monitoring workflows |
-| Full Stack AI Products | Advanced | AI-powered production applications |
+| Machine Learning | Advanced | Model Development & Optimization |
+| Deep Learning | Advanced | Neural Network Architectures |
+| AI Agents | Advanced | Autonomous Tool Usage |
+| LLM Systems | Advanced | Routing & Inference |
+| Full Stack AI | Advanced | Production Deployment |
+| NLP | Intermediate | Text Processing |
+| XGBoost | Advanced | Classification Systems |
+| Vector Databases | Intermediate | Memory Systems |
+| FastAPI | Advanced | Backend Services |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Trinity — Autonomous AI Agent Operating System</b></summary>
+<summary><b>Trinity — Autonomous AI Operating System</b></summary>
 
-### Project Overview
+### Overview
 
-A local-first autonomous AI operating system capable of intelligent model routing, autonomous tool execution, persistent memory, and long-running missions.
+A local-first autonomous AI operating system capable of intelligent routing, memory management, mission execution, and autonomous workflows.
 
 | Category | Details |
 |-----------|-----------|
-| Stack | Python, FastAPI, React, SQLite, ChromaDB, LiteLLM |
+| Stack | Python, FastAPI, React, SQLite, ChromaDB |
 | Scale | Multi-Agent Runtime |
-| Performance | Intelligent Model Routing |
-| Security | Local-First Architecture |
-| Impact | Autonomous AI Workflow Automation |
-| Repository | Private |
+| Routing | Dynamic Model Selection |
+| Memory | Persistent Recall |
+| Tools | Autonomous Tool Usage |
+| Impact | AI Workflow Automation |
 
 ### Highlights
 
-- Built autonomous model routing across Fast, Reasoning, Coding, and Research lanes.
-- Implemented 19 integrated tools.
-- Added persistent memory using SQLite and ChromaDB.
-- Created mission-based background task execution.
-- Added self-grading and quality verification loops.
-- Achieved 658 passing tests.
+- Four-lane intelligent routing architecture
+- Long-term memory using SQLite and vectors
+- Mission execution engine
+- Autonomous tool orchestration
+- Self verification system
+- 658 passing tests
 
 </details>
 
 <details>
 <summary><b>Silent Speech Prosthesis</b></summary>
 
-### Project Overview
+### Overview
 
-AI-powered assistive communication device enabling mute individuals to communicate using jaw-muscle movements.
+Assistive communication system enabling speech generation through jaw-muscle movement recognition.
 
 | Category | Details |
 |-----------|-----------|
-| Stack | Python, XGBoost, Streamlit, EMG Sensors |
-| Scale | Real-Time Inference |
-| Performance | Optimized Classification Pipeline |
-| Security | Local Processing |
-| Impact | Accessibility Technology |
-| Repository | Academic Project |
+| Stack | Python, XGBoost, Streamlit |
+| Input | EMG Sensors |
+| Output | Speech Generation |
+| Type | Assistive Technology |
+| Impact | Accessibility |
 
 ### Highlights
 
-- Trained XGBoost classifier using EMG signals.
-- Developed real-time speech generation workflow.
-- Integrated live visualization dashboard.
-- Built compact and practical assistive solution.
+- Real-time EMG processing
+- XGBoost classification
+- Live visualization dashboard
+- Practical accessibility solution
 
 </details>
 
 <details>
 <summary><b>Disease Prediction from Speech</b></summary>
 
-### Project Overview
+### Overview
 
-Machine learning system designed to predict diseases from user-spoken symptoms.
+Disease prediction system utilizing deep learning models trained on symptom-based speech data.
 
 | Category | Details |
 |-----------|-----------|
-| Stack | Python, Keras, LSTM, RNN, Transformer |
-| Scale | Multi-Class Classification |
-| Performance | 88% Accuracy |
-| Security | Secure Processing Pipeline |
-| Impact | Healthcare AI |
-| Repository | Academic Project |
+| Stack | Python, LSTM, RNN, Transformer |
+| Accuracy | 88% |
+| Type | Healthcare AI |
+| Classification | Multi-Class |
+| Deployment | ML Pipeline |
 
 ### Highlights
 
-- Combined LSTM, RNN, and Transformer architectures.
-- Built speech-driven prediction workflow.
-- Improved accuracy through preprocessing and tuning.
-- Designed for real-world healthcare assistance.
+- Combined multiple deep learning architectures
+- Symptom-based speech analysis
+- Optimized prediction pipeline
+- Healthcare-focused AI solution
 
 </details>
 
 ---
 
-# Experience
+# Recruiter Quick View
 
-## AI Developer
+```yaml
+name: Safal Siyad
 
-### Independent Projects & Research
+role:
+  - AI Systems Engineer
+  - Machine Learning Engineer
 
-**2023 – Present**
+education:
+  - B.Tech AI & Data Science
 
-Developing advanced AI systems, autonomous agents, machine learning models, and full-stack applications focused on practical real-world deployment.
+specialties:
+  - Autonomous Agents
+  - AI Systems
+  - LLM Infrastructure
+  - Full Stack Engineering
 
-#### Scope
+currently_building:
+  - Trinity AI Operating System
 
-- Building autonomous AI agent architectures
-- Developing machine learning pipelines
-- Creating full-stack web applications
-- Designing vector memory systems
-- Building LLM routing frameworks
-- Researching next-generation AI workflows
-
-**Skills:** `Python` `AI Agents` `Machine Learning` `FastAPI` `React` `LLM Systems`
+open_to:
+  - AI Engineer
+  - ML Engineer
+  - Software Engineer
+  - Full Stack Engineer
+```
 
 ---
 
 # Achievements
 
-| Recognition | Details |
-|------------|------------|
-| AI Agent Development | Built a complete autonomous AI operating system |
-| Healthcare AI | Achieved 88% prediction accuracy in disease prediction system |
-| Accessibility Innovation | Developed silent speech prosthesis for communication assistance |
-| Full Stack Engineering | Delivered end-to-end AI-powered web applications |
-| Leadership | Team captain for multiple academic projects |
+| Recognition | Description |
+|--------------|--------------|
+| Trinity AI OS | Built a complete autonomous AI operating system |
+| Healthcare AI | Achieved 88% prediction accuracy |
+| Accessibility Innovation | Developed Silent Speech Prosthesis |
+| Product Engineering | Built multiple full-stack AI systems |
+| Team Leadership | Led and delivered academic projects |
 
 ---
 
@@ -234,39 +319,15 @@ Developing advanced AI systems, autonomous agents, machine learning models, and 
 
 ## Oracle
 
-![](https://img.shields.io/badge/Oracle-Certifications-F80000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Certified-005BAC?style=for-the-badge)
+![](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle)
 
 ## Cisco
 
 ![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
 
----
+## NPTEL
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
+![](https://img.shields.io/badge/NPTEL-Certified-005BAC?style=for-the-badge)
 
 ---
 
@@ -274,11 +335,17 @@ Developing advanced AI systems, autonomous agents, machine learning models, and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlueRogue22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BlueRogue22&show_icons=true&theme=dark&hide_border=true&bg_color=0B0F0C&title_color=10B981&icon_color=34D399&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BlueRogue22&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BlueRogue22&theme=dark&hide_border=true&background=0B0F0C&ring=10B981&fire=34D399&currStreakLabel=10B981"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueRogue22&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueRogue22&layout=compact&theme=dark&hide_border=true&bg_color=0B0F0C&title_color=10B981&text_color=FFFFFF"/>
 
 </div>
 
@@ -288,7 +355,7 @@ Developing advanced AI systems, autonomous agents, machine learning models, and 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BlueRogue22&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BlueRogue22&theme=matrix&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -298,7 +365,7 @@ Developing advanced AI systems, autonomous agents, machine learning models, and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueRogue22&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueRogue22&theme=github-dark&bg_color=0B0F0C&color=10B981&line=34D399&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -318,26 +385,25 @@ Developing advanced AI systems, autonomous agents, machine learning models, and 
 
 ```yaml
 Learning:
-  - Agentic AI Systems
-  - Multi-Agent Architectures
-  - Advanced LLM Routing
-  - Production AI Engineering
+  - Agentic AI
+  - Multi-Agent Systems
+  - AI Infrastructure
+  - LLM Orchestration
 
 Building:
-  - Trinity Autonomous AI OS
-  - AI Agent Ecosystem
-  - Full Stack AI Products
+  - Trinity AI Operating System
+  - Autonomous Workflows
+  - AI Productivity Systems
 
 Exploring:
-  - Autonomous Workflows
-  - Vector Memory Systems
-  - AI Infrastructure
+  - Vector Memory
+  - Tool Use Architectures
+  - Agent Collaboration
 
 Open_To:
-  - AI Engineer Roles
-  - Software Engineering Roles
-  - Open Source Collaboration
-  - Research Opportunities
+  - AI Engineering
+  - Machine Learning
+  - Full Stack Development
 ```
 
 ---
@@ -347,19 +413,15 @@ Open_To:
 <div align="center">
 
 <a href="mailto:safalsiyad2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/BlueRogue22">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-BlueRogue22-111827?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-TrinityAgent.space-10B981?style=for-the-badge"/>
 </a>
 
 </div>
@@ -368,8 +430,10 @@ Open_To:
 
 <div align="center">
 
-### "Building intelligent systems that transform ideas into autonomous products."
+### "Building autonomous systems that think, act, and evolve."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:8B5CF6,100:3B82F6"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B0F0C,50:10B981,100:34D399"/>
 
 </div>
